@@ -55,15 +55,16 @@ The complete output from the User Centered Branding workshop can be found here
 ## How to contribute
 Feel free to use a method of contribution you are most comfortable with. If you are new to Git, you can use GitHub to contribute by simply uploading new files to the repository and following the rules below.
 
-When contributing, your commit will go though the following process:
+When contributing, your pull request will go though the following process:  
+• Pull request is flagged with two Brand Administrators  
+• Brand Administrators will assess the request against the contribution rules  
+• Brand Administrators will approve or deny the request, with a message outlining the decision  
+• Pull request will only be merged into the master branch if both Administators approve
 
-• Commit is flagged with two Brand Administrators  
-• Brand Administrators will assess the commit against the contribution rules  
-• Brand Administrators will approve or deny the commit, with a message outlining the desision  
-• Commit will only be merged into the master branch if both Administators approve
+[Here](https://github.com/timcruicky/Product_Of/pull/3#pullrequestreview-39966146) is an example of a bad pull request.
 
 ### Rule 1: Clear and concise comments
-When commiting a change or adding a new file/asset, be sure to give your commit a title (i.e 'Updated logo colours') along with a detailed description of the changes made (i.e 'Changed the logo colours to comply with WCAG 2.0 AA contrast requirements'). This will ensure a quick and easy approval process
+When commiting a change or adding a new file/asset, be sure to give your pull request a title (i.e 'Updated logo colours') along with a detailed description of the changes made (i.e 'Changed the logo colours to comply with WCAG 2.0 AA contrast requirements'). This will ensure a quick and easy approval process
 
 ### Rule 2: Align with the brand Feelings, Traits & Persona
 When creating a new asset, or updating an old asset, be sure to relate your choices back to the brand Feelings, Traits & Persona. The Brand Administrators will decide if your requested change/addition aligns with the overall brand foundation & direciton.
